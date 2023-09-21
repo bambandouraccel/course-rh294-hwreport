@@ -1,1 +1,1 @@
-# course-rh294-hwreport
+# Generate a hardware report
